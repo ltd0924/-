@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516957837 source:f:\c++\dibingbuzhen\main.cpp
+	<algorithm>
+	<cstdio>
+	<cstring>
+

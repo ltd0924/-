@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516597478 source:f:\c++\quoit\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+	<iomanip>
+	<stdio.h>
+

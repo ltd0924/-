@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1516716777 source:f:\c++\duilie\main.cpp
+	<cmath>
+	<cstdio>
+	<algorithm>
+
